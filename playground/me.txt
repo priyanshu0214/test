@@ -1,0 +1,3 @@
+Name : Priyanshu Rana
+Skills : Python, Java, Data Structures and Algorithm, HTML, DBMS, C Programming
+Email : priyanshu299792@gmail.com
